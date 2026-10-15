@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scikit-hep/decaylanguage/commit/abe8e624aaf1aacb73b9139510b69eee65738077",
       "git:hexsha": "abe8e624aaf1aacb73b9139510b69eee65738077",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T20:16:53.108703+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scikit-hep/decaylanguage/commit/f17cee11d672bcee7602106117d7bb0233d9c140",
