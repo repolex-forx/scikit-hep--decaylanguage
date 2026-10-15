@@ -1,0 +1,11 @@
+{
+  "org": "scikit-hep",
+  "repo": "decaylanguage",
+  "versions": [
+    {
+      "commit": "abe8e624aaf1aacb73b9139510b69eee65738077",
+      "tag": "",
+      "parsed_at": "2026-10-15T20:16:53.109396+00:00"
+    }
+  ]
+}
